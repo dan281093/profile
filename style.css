@@ -7,6 +7,9 @@ body {
   text-align: center;
   background: #eef2f5;
   margin-top: -10px;
+  background-image: url("https://c1.staticflickr.com/5/4645/27217386689_b4a24aa6fe_h.jpg");
+  background-size: 100%;
+  background-attachment: fixed;
 }
 
 .image{
